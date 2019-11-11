@@ -359,7 +359,7 @@ read -p "Are you really sure you want to do this ? [y/N] ? " yn
     * )
         echo " "
         exit 1
-    ;;
+    
 else
 echo " "
 echo "Sorry - cannot connect to internet - not going to touch anything."
